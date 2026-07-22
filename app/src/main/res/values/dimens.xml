@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensions -->
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="corner_radius">16dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+</resources>
