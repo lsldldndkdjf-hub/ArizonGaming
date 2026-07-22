@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أريزون RP</string>
+    <string name="welcome">هل أنت مستعد للشوارع؟</string>
+    <string name="enter_server">دخول السيرفر</string>
+    <string name="server_status">حالة السيرفر</string>
+    <string name="connected">متصل</string>
+    <string name="players">لاعب</string>
+    <string name="designed_by">صمم من طرف قناة xdiaa</string>
+    <string name="my_account">حسابي</string>
+    <string name="home">الرئيسية</string>
+    <string name="settings">الإعدادات</string>
+    <string name="player_name">اسم اللاعب</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="playtime">وقت اللعب</string>
+    <string name="achievements">الإنجازات</string>
+    <string name="current_progress">التقدم الحالي</string>
+    <string name="join_date">تاريخ الانضمام</string>
+    <string name="control_settings">إعدادات أزرار التحكم</string>
+    <string name="old_head">هَد قديم</string>
+    <string name="old_radar">رادار قديم</string>
+    <string name="sound_settings">إعدادات الصوت</string>
+    <string name="master_volume">حجم الصوت العام</string>
+    <string name="music_volume">الموسيقى</string>
+    <string name="radio_volume">الراديو</string>
+    <string name="app_settings">إعدادات التطبيق</string>
+    <string name="selected_language">اللغة المختارة</string>
+    <string name="auto_update">التحديث التلقائي</string>
+    <string name="loading_resources">جاري تحميل موارد اللعبة...</string>
+    <string name="ready">جاهز!</string>
+</resources>
